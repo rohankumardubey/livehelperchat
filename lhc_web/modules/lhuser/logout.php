@@ -1,6 +1,6 @@
 <?php
 
-header('X-Frame-Options: DENY');
+//header('X-Frame-Options: DENY');
 
 $lhUser = erLhcoreClassUser::instance();
 
